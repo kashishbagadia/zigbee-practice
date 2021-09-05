@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+  }
+  
+  .container {
+    height: 300px;
+    width: 100%;
+  }
+  
+  #display {
+    width: 100%;
+    font-size: 72px;
+    color: white;
+    text-align: center;
+    margin: 0px auto;
+  }
+  
+  button {
+    font-size: 20px;
+    color: white;
+    background: transparent;
+    padding: 5px;
+    border: brown 2px solid;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    text-align: center;
+  }
